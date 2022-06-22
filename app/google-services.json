@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "90492558698",
+    "project_id": "snake-firebase",
+    "storage_bucket": "snake-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90492558698:android:673c1da70137dc56a4d913",
+        "android_client_info": {
+          "package_name": "tw.edu.pu.csim.mis2b.wcchen.snake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90492558698-5ssdhr6625917od8loddgm5de179sup1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsC3zuNJY-YGs3H2QdjyY-4cM56SZ_yiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90492558698-5ssdhr6625917od8loddgm5de179sup1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
